@@ -1,4 +1,5 @@
-nano /etc/ufw/before.rules
+В терминале вводим команду
+'nano /etc/ufw/before.rules'
 
 Находим строчку
 ok icmp codes for INPUT
